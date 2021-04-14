@@ -17,5 +17,3 @@ print(df_fr_le)
 df_fr_le2=df_fr_le.fillna(method="bfill").fillna("ffill")
 print(df_fr_le2)
 
-
-
